@@ -3,7 +3,8 @@ body
     font-family: Harlow ;
     font-size: large;
     overflow-x:hidden;
-    width:fit-content;
+    width:max-content;
+    
 }
 *
 {
