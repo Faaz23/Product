@@ -78,19 +78,6 @@ body
     background-attachment: fixed;
   
 }
-@font-face 
-{
-    font-family:"harlow";
-    src: url('path/to/harlow.woff2') format('woff2'),
-         url('path/to/harlow.ttf') format('truetype');
-    font-weight: normal; 
-    font-style: normal; 
-  }
-  
-  body 
-  {
-    font-family: 'Harlow', sans-serif; 
-  }
   .hero h1 
   {
     text-align: center;
