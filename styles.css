@@ -22,7 +22,10 @@ body
     align-items: center; 
     margin-top: -600px;
 }
-  
+.line
+{
+    border:2px solid grey;
+}
 .Navbar a 
 {
     padding: 15px;
