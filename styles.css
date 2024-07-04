@@ -66,7 +66,7 @@ body
 }
 .hero 
 {
-    background-image: url("C:/Users/faazf/Downloads/hdbg.png"); 
+    background-image: url("hdbg.png"); 
     background-size: cover; 
     background-position: center center; 
     height: 100vh; 
@@ -102,7 +102,7 @@ body
 }
 .hero1
 {
-    background-image: url("C:/Users/faazf/Downloads/hdbg2.png"); 
+    background-image: url("hdbg2.png"); 
     background-size: cover; 
     background-position: center center; 
     height: 100vh; 
@@ -197,7 +197,7 @@ body
 }
 .hero3
 {
-    background-image: url("C:/Users/faazf/Downloads/hdlogo.png"); 
+    background-image: url("hdlogo.png"); 
     background-size: cover; 
     background-color: #E3CBAA;
     background-position: center center; 
